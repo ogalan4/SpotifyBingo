@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="WhenHomePageTests" skipped="0" tests="2" time="8.24" timestamp="2022-06-12 10:27:27"><testcase classname="WhenHomePageTests" name="Check bingo sub menu item changes color by cursor moving"/><testcase classname="WhenHomePageTests" name="Check if header menu items change color by cursor moving"><failure message="[The color of Products was not change after moving over it] &#13;&#10;Expecting actual:&#13;&#10;  &quot;#ffffff&quot;&#13;&#10;not to be equal to:&#13;&#10;  &quot;#ffffff&quot;&#13;&#10;" type="java.lang.AssertionError">[The color of Products was not change after moving over it] &#13;
+Expecting actual:&#13;
+  "#ffffff"&#13;
+not to be equal to:&#13;
+  "#ffffff"&#13;
+</failure><system-err>[The color of Products was not change after moving over it] &#13;
+Expecting actual:&#13;
+  "#ffffff"&#13;
+not to be equal to:&#13;
+  "#ffffff"&#13;
+&#13;
+WhenHomePageTests.checkIfHeaderMenuItemsChangeColorByCursorMoving(WhenHomePageTests.java:45)&#13;
+</system-err></testcase></testsuite>

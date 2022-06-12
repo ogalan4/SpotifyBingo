@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"When home page tests","Check bingo sub menu item changes color by cursor moving","SUCCESS","2022-06-12T10:27:27.5936516+03:00[Europe/Moscow]","0.0","4.21"
+"When home page tests","Check if header menu items change color by cursor moving","FAILURE","2022-06-12T10:27:31.9692647+03:00[Europe/Moscow]","0.0","4.03"

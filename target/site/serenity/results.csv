@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"When bingo page tests","Check if link contains the name of theme test","FAILURE","2022-06-12T10:26:52.6479025+03:00[Europe/Moscow]","0.0","11.42"
+"When bingo page tests","Check count of elements in carousel menu equals nine test","FAILURE","2022-06-12T10:27:04.7906995+03:00[Europe/Moscow]","0.0","3.93"
+"When bingo page tests","Check duplicate of elements in carousel menu test","FAILURE","2022-06-12T10:27:08.8917477+03:00[Europe/Moscow]","0.0","16.61"
+"When home page tests","Check bingo sub menu item changes color by cursor moving","SUCCESS","2022-06-12T10:27:27.5936516+03:00[Europe/Moscow]","0.0","4.21"
+"When home page tests","Check if header menu items change color by cursor moving","FAILURE","2022-06-12T10:27:31.9692647+03:00[Europe/Moscow]","0.0","4.03"

@@ -1,0 +1,4 @@
+pages\BingoPage.class
+steps\BingoSteps.class
+steps\HomeSteps.class
+pages\HomePage.class

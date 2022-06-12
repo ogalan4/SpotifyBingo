@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="3" name="WhenBingoPageTests" skipped="0" tests="3" time="31.96" timestamp="2022-06-12 10:26:52"><testcase classname="WhenBingoPageTests" name="Check if link contains the name of theme test"><failure message="[The https://www.pragmaticplay.com/wpcontent/uploads/2021/03/BingoThumbnailReleaseTheKraken.png link  contains wrong title (ReelsRoom)] &#13;&#10;Expecting actual:&#13;&#10;  &quot;https://www.pragmaticplay.com/wpcontent/uploads/2021/03/BingoThumbnailReleaseTheKraken.png&quot;&#13;&#10;to contain:&#13;&#10;  &quot;ReelsRoom&quot; " type="java.lang.AssertionError">[The https://www.pragmaticplay.com/wpcontent/uploads/2021/03/BingoThumbnailReleaseTheKraken.png link  contains wrong title (ReelsRoom)] &#13;
+Expecting actual:&#13;
+  "https://www.pragmaticplay.com/wpcontent/uploads/2021/03/BingoThumbnailReleaseTheKraken.png"&#13;
+to contain:&#13;
+  "ReelsRoom" </failure><system-err>[The https://www.pragmaticplay.com/wpcontent/uploads/2021/03/BingoThumbnailReleaseTheKraken.png link  contains wrong title (ReelsRoom)] &#13;
+Expecting actual:&#13;
+  "https://www.pragmaticplay.com/wpcontent/uploads/2021/03/BingoThumbnailReleaseTheKraken.png"&#13;
+to contain:&#13;
+  "ReelsRoom" &#13;
+WhenBingoPageTests.checkIfLinkContainsTheNameOfThemeTest(WhenBingoPageTests.java:66)&#13;
+</system-err></testcase><testcase classname="WhenBingoPageTests" name="Check count of elements in carousel menu equals nine test"><failure message="[The count of elements in carousel menu equals 21 elements, versus 9] expected:&lt;[9]&gt; but was:&lt;[21]&gt;" type="org.junit.ComparisonFailure">[The count of elements in carousel menu equals 21 elements, versus 9] expected:&lt;[9]&gt; but was:&lt;[21]&gt;</failure><system-err>[The count of elements in carousel menu equals 21 elements, versus 9] expected:&lt;[9]&gt; but was:&lt;[21]&gt;&#13;
+WhenBingoPageTests.checkCountOfElementsInCarouselMenuEqualsNineTest(WhenBingoPageTests.java:37)&#13;
+</system-err></testcase><testcase classname="WhenBingoPageTests" name="Check duplicate of elements in carousel menu test"><failure message="[In carousel bloc are present 12 duplicates] expected:&lt;[0]&gt; but was:&lt;[12]&gt;" type="org.junit.ComparisonFailure">[In carousel bloc are present 12 duplicates] expected:&lt;[0]&gt; but was:&lt;[12]&gt;</failure><system-err>[In carousel bloc are present 12 duplicates] expected:&lt;[0]&gt; but was:&lt;[12]&gt;&#13;
+WhenBingoPageTests.checkDuplicateOfElementsInCarouselMenuTest(WhenBingoPageTests.java:51)&#13;
+</system-err></testcase></testsuite>
